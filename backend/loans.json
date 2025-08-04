@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "borrowerName": "John Doe",
+    "principalAmount": 10000,
+    "interestRate": 5,
+    "loanDate": "2023-01-15",
+    "term": 12
+  },
+  {
+    "id": 2,
+    "borrowerName": "Jane Smith",
+    "principalAmount": 25000,
+    "interestRate": 4.5,
+    "loanDate": "2023-03-20",
+    "term": 24
+  },
+  {
+    "id": 3,
+    "borrowerName": "Sam Wilson",
+    "principalAmount": 5000,
+    "interestRate": 6,
+    "loanDate": "2023-06-01",
+    "term": 6
+  }
+]
